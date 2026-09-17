@@ -1,4 +1,4 @@
-# Decoding Customer Value: A SQL-Driven Retention Strategy
+# Decoding Customer Value: A Python-SQL-PowerBI Driven Retention Strategy
 ### Background
 A direct-to-consumer (D2C) fashion brand sells clothing, accessories, footwear, and outerwear across the
 United States. The brand has no physical stores and no third-party retailers — every customer relationship
